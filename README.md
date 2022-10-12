@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Mihir <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Frontend+Web+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=F7D01BFF&lines=I'm+a+Frontend+Web+Developer)
 
 <!--
 **mihir1729/mihir1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
