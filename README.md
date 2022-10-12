@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building **large-scale frontend projects**
 - 🌱 I’m currently learning **ReactJS**
-- 💻 Have a look at my [**personal portfolio**](https://mihiryadav.com/)
+- 💻 Have a look at my [**portfolio**](https://mihiryadav.com/)
 - ⚡ Fun fact: I **graduated in finance** but fell in love with tech
 - 💬 Ask me about **ES6 & Financial Investments** :wink:
 - 📫 How to reach me: **insert-email**
