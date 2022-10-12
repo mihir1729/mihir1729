@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="main/PXL_20220217_121347152.PORTRAIT.jpg" src="YOUR-DEFAULT-IMAGE">
-</picture>
+![profile pic](/main/PXL_20220217_121347152.PORTRAIT.jpg)
