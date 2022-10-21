@@ -7,7 +7,7 @@
 - 💻 Have a look at my [**portfolio**](https://mihiryadav.com/)
 - ⚡ Fun fact: I **graduated in finance** but fell in love with tech
 - 💬 Ask me about **ES6 & Financial Investments** :wink:
-- 📫 How to reach me: **insert-email**
+- 📫 How to reach me: **mihirsvma@gmail.com**
 - 😄 Pronouns: **he/him/his**
 
  ---
