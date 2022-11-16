@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=F7D01BFF&lines=I'm+a+Frontend+Web+Developer)
 
-- 🔭 I’m currently building **frontend projects**
+- 🔭 I’m currently building **library management web application**
 - 🌱 I’m currently learning **backend in  python**
 - 💻 Have a look at my [**portfolio**](https://mihiryadav.com/)
 - ⚡ Fun fact: I **graduated in finance** but fell in love with tech
