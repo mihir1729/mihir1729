@@ -5,7 +5,7 @@
 - 🔭 I’m currently building **library management web application**
 - 🌱 I’m currently learning **backend in  python**
 - 💻 Have a look at my [**portfolio**](https://mihiryadav.com/)
-- ⚡ Fun fact: I **graduated in finance** but fell in love with tech
+- ⚡ Fun fact: I **hold a finance degree** :stuck_out_tongue:
 - 💬 Ask me about **ES6** :wink:
 - 📫 How to reach me: **mihiryadav.dev@gmail.com**
 
