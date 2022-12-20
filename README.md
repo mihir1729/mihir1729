@@ -28,6 +28,6 @@
 
  ---
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir1729&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mihir1729" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir1729&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mihir1729" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihir1729&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihir1729&theme=vision-friendly-dark)](https://git.io/streak-stats) -->
